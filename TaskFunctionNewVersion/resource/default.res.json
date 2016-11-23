@@ -1,0 +1,60 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,emoji0_png,emoji1_png,button_png,talkwindow_png,npc_0_png,npc_1_png,killmonsterbutton_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "emoji0_png",
+			"type": "image",
+			"url": "assets/emoji0.png"
+		},
+		{
+			"name": "emoji1_png",
+			"type": "image",
+			"url": "assets/emoji1.png"
+		},
+		{
+			"name": "button_png",
+			"type": "image",
+			"url": "assets/button.png"
+		},
+		{
+			"name": "talkwindow_png",
+			"type": "image",
+			"url": "assets/talkwindow.png"
+		},
+		{
+			"name": "npc_0_png",
+			"type": "image",
+			"url": "assets/npc_0.png"
+		},
+		{
+			"name": "npc_1_png",
+			"type": "image",
+			"url": "assets/npc_1.png"
+		},
+		{
+			"name": "killmonsterbutton_png",
+			"type": "image",
+			"url": "assets/killmonsterbutton.png"
+		}
+	]
+}
